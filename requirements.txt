@@ -1,5 +1,5 @@
 python-dotenv
-
+python-telegram-bot>=20.8
 cryptography
 aiohttp
-python-telegram-bot>=20.8
+
