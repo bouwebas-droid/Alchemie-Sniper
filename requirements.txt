@@ -2,4 +2,4 @@ python-dotenv
 python-telegram-bot==20.7
 cryptography
 aiohttp
-python-3.12.x
+
